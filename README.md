@@ -1,16 +1,16 @@
 # 💫 About Me:
 
-🔭 I’m currently building end-to-end Data Analytics and Business Intelligence projects using SQL, Power BI, Python, Excel, and DAX.<br><br>
+🔭 I’m currently building end-to-end Data Analytics and Business Intelligence projects using SQL, Power BI, Python, Excel, and DAX.<br>
 
-📊 I enjoy transforming raw transactional data into interactive dashboards, actionable KPIs, and business insights that support data-driven decision-making.<br><br>
+📊 I enjoy transforming raw transactional data into interactive dashboards, actionable KPIs, and business insights that support data-driven decision-making.<br>
 
-🤝 I’m looking to collaborate on Data Analytics, Business Intelligence, SQL, Power BI, and open-source data projects.<br><br>
+🤝 I’m looking to collaborate on Data Analytics, Business Intelligence, SQL, Power BI, and open-source data projects.<br>
 
-🌱 I’m currently expanding my expertise in Machine Learning, Data Engineering fundamentals, Azure, and modern analytics workflows.<br><br>
+🌱 I’m currently expanding my expertise in Machine Learning, Data Engineering fundamentals, Azure, and modern analytics workflows.<br>
 
-💬 Ask me about SQL, Power BI, Python, Excel, Data Visualization, Dashboard Development, ETL, DAX, and Business Intelligence.<br><br>
+💬 Ask me about SQL, Power BI, Python, Excel, Data Visualization, Dashboard Development, ETL, DAX, and Business Intelligence.<br>
 
-⚡ Fun fact: I enjoy turning messy datasets into meaningful stories through clean dashboards, insightful visualizations, and business-focused analytics.<br><br>
+⚡ Fun fact: I enjoy turning messy datasets into meaningful stories through clean dashboards, insightful visualizations, and business-focused analytics.<br>
 
 🔗 LinkedIn:<br>
 https://www.linkedin.com/in/vasu-bhardwaj07/
