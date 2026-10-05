@@ -1,7 +1,12 @@
 <div align="center">
   <h1>Hi 👋, I'm Vasu Bhardwaj</h1>
   <p><strong>Data Analyst | BI Developer</strong></p>
-  <p>Bridging the gap between raw transactional data and executive decision-making.</p>
+  <p>Transforming complex datasets into actionable KPIs, intuitive dashboards, and strategic business decisions.</p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/vasu-bhardwaj07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:vasubhardwaj023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://instagram.com/vasu.fxx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
   <!-- Clean Social Badges -->
   <a href="https://linkedin.com/in/vasu-bhardwaj07" target="_blank">
