@@ -53,9 +53,10 @@
 
 ### 📊 GitHub Stats
 
-| <div align="center">**My Stats**</div> | <div align="center">**Most Used Languages**</div> |
-| :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=VasuBhardwaj-23&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="Vasu's Stats" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VasuBhardwaj-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" alt="Top Languages" /> |
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=VasuBhardwaj-23&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="192" alt="Vasu's Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VasuBhardwaj-23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192" alt="Top Languages" />
+</div>
 
 ---
 
